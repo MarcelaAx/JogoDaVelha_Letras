@@ -5,5 +5,5 @@
 ## Possui um Menu, opções para nomes dos jogadores, escolha do tamanho do tabuleiro e no final pode-se verificar o histórico das jogadas.
 
 <div align="center">
-    <img src="./img/jogo.png" width = "700px"/>
+    <img src="./img/jogo.png" width = "500px"/>
 </div>
